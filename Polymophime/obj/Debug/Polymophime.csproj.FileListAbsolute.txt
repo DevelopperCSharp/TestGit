@@ -1,0 +1,7 @@
+c:\users\layal\source\repos\Polymophime\Polymophime\bin\Debug\Polymophime.exe.config
+c:\users\layal\source\repos\Polymophime\Polymophime\bin\Debug\Polymophime.exe
+c:\users\layal\source\repos\Polymophime\Polymophime\bin\Debug\Polymophime.pdb
+c:\users\layal\source\repos\Polymophime\Polymophime\obj\Debug\Polymophime.csprojResolveAssemblyReference.cache
+c:\users\layal\source\repos\Polymophime\Polymophime\obj\Debug\Polymophime.csproj.CoreCompileInputs.cache
+c:\users\layal\source\repos\Polymophime\Polymophime\obj\Debug\Polymophime.exe
+c:\users\layal\source\repos\Polymophime\Polymophime\obj\Debug\Polymophime.pdb
