@@ -1,2 +1,3 @@
  je suis la texte de la version v1.0 
- en plus changer par master
+ en plus changer master 
+ pui par la dexxieme developpeur
